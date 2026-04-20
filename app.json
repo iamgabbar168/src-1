@@ -8,36 +8,36 @@
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "your_api_id_here",
+      "value": "26184715",
       "required": true
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "your_api_hash_here",
+      "value": "7fc42fe25c89660b4e0b00dd7aa0beb1",
       "required": true
     },
     "BOT_TOKEN": {
       "description": "A Bot's token from Botfather",
-      "value": "your_bot_token_here",
+      "value": "8225077803:AAGqTGGMpLo4fywYcRDASFD4RhUDp2NrPl0",
       "required": true
     },
     "MONGO_DB": {
       "description": "Get a MongoDB URL from https://cloud.mongodb.com.",
-      "value": "your_mongodb_url_here",
+      "value": "mongodb+srv://dubeyji0995:Gqaqduzpm98kT6ZF@cluster0.ekxizvl.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
       "required": true
     },
     "OWNER_ID": {
       "description": "The user ID of the user whom you would like to add as OWNER.",
-      "value": "owner_user_id_here",
+      "value": "7744686564",
       "required": true
     },    
     "FREEMIUM_LIMIT": {
-      "description": "Batch size for free users",
+      "description": "0",
       "value": "0",
       "required": true
     },
     "PREMIUM_LIMIT": {
-      "description": "Batch size for premium users",
+      "description": "500",
       "value": "500",
       "required": true
     },
@@ -71,7 +71,7 @@
     },
     "CHANNEL_ID": {
       "description": "Enter Channel ID (-100) and make bot admin there",
-      "value": "channel_id_here",
+      "value": "1003777520171",
       "required": true
     },
     "LOG_GROUP": {
