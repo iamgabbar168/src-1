@@ -60,7 +60,7 @@
     },
     "AD_API": {
       "description": "Batch size for premium users",
-      "value": "52b4a2cf4687d81e7d3f8f2b7bc2943f618e78cb",
+      "value": "7fc42fe25c89660b4e0b00dd7aa0beb1",
       "required": false
     },
     
@@ -71,7 +71,7 @@
     },
     "CHANNEL_ID": {
       "description": "Enter Channel ID (-100) and make bot admin there",
-      "value": "1003777520171",
+      "value": "-1003777520171",
       "required": true
     },
     "LOG_GROUP": {
